@@ -1,0 +1,2 @@
+javac InheritanceDemo.java
+java InheritanceDemo
